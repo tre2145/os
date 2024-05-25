@@ -1,2 +1,2 @@
 # os
-simple os
+a simple os
